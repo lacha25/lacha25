@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="./assets/profile-header.svg" alt="Data science meets neural systems — neuroscience, machine learning, and neurotechnology" width="100%" />
-
-  <h1>Lancelot Charvillat</h1>
+  <h1>Hi! I'm Lancelot 👋</h1>
   <p><strong>MSc in Data Science</strong><br />Minor in Neural Information Processing</p>
 </div>
 
-I'm interested in how the brain processes information and learns, and how data science can help us understand those mechanisms. My interests span neuroscience, machine learning, and neurotechnology.
+I'm curious about how the brain works—especially how it learns and processes information. That's what draws me to neuroscience, machine learning, and neurotechnology.
 
-I'm looking for opportunities where I can apply my data science background to questions about the brain and build useful tools along the way.
+I like turning questions into projects: a brain atlas to explore neural systems, a segmentation pipeline to work with medical images, or a route planner to see whether running could help catch an earlier tram.
+
+I'm looking for opportunities where I can bring data science and my interest in the brain together.
 
 ## 🛠️ Tools I work with
 
