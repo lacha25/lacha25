@@ -9,28 +9,9 @@ I'm looking for opportunities where I can bring data science and my interest in 
 
 ## 🛠️ Tools I work with
 
-### Programming
+**Programming:** Python, NumPy, Pandas, C, Java, Scala, SQL, Julia
 
-<p>
-  <img src="./assets/badges/python.svg" alt="Python" height="22" />
-  <img src="./assets/badges/numpy.svg" alt="NumPy" height="22" />
-  <img src="./assets/badges/pandas.svg" alt="Pandas" height="22" />
-  <img src="./assets/badges/c.svg" alt="C" height="22" />
-  <img src="./assets/badges/java.svg" alt="Java" height="22" />
-  <img src="./assets/badges/scala.svg" alt="Scala" height="22" />
-  <img src="./assets/badges/sql.svg" alt="SQL" height="22" />
-  <img src="./assets/badges/julia.svg" alt="Julia" height="22" />
-  <img src="./assets/badges/git.svg" alt="Git" height="22" />
-  <img src="./assets/badges/docker.svg" alt="Docker" height="22" />
-</p>
-
-### Machine Learning
-
-<p>
-  <img src="./assets/badges/pytorch.svg" alt="PyTorch" height="22" />
-  <img src="./assets/badges/scikit-learn.svg" alt="Sklearn" height="22" />
-  <img src="./assets/badges/pynest.svg" alt="PyNEST" height="22" />
-</p>
+**Machine Learning:** PyTorch, Sklearn, PyNEST
 
 ## 🔬 Selected work
 
