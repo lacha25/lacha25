@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="113" height="32" viewBox="0 0 113 32" role="img" aria-label="Sklearn">
+<svg xmlns="http://www.w3.org/2000/svg" width="73" height="22" viewBox="0 0 73 22" role="img" aria-label="Sklearn">
   <title>Sklearn</title>
-  <rect x=".5" y=".5" width="112" height="31" rx="7" fill="#614222" stroke="#F5A340" stroke-opacity=".65"/>
-  <circle cx="15" cy="16" r="3.5" fill="#F5A340"/>
-  <text x="27" y="20.5" fill="#FFFFFF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">Sklearn</text>
+  <rect x=".5" y=".5" width="72" height="21" rx="4" fill="#614222" stroke="#F5A340" stroke-opacity=".65"/>
+  <circle cx="8.5" cy="11" r="2.5" fill="#F5A340"/>
+  <text x="16" y="14.7" fill="#FFFFFF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="11" font-weight="600">Sklearn</text>
 </svg>

@@ -5,8 +5,6 @@
 
 I'm curious about how the brain works—especially how it learns and processes information. That's what draws me to neuroscience, machine learning, and neurotechnology.
 
-I like turning questions into projects: a brain atlas to explore neural systems, a segmentation pipeline to work with medical images, or a route planner to see whether running could help catch an earlier tram.
-
 I'm looking for opportunities where I can bring data science and my interest in the brain together.
 
 ## 🛠️ Tools I work with
@@ -14,24 +12,24 @@ I'm looking for opportunities where I can bring data science and my interest in 
 ### Programming
 
 <p>
-  <img src="./assets/badges/python.svg" alt="Python" height="32" />
-  <img src="./assets/badges/numpy.svg" alt="NumPy" height="32" />
-  <img src="./assets/badges/pandas.svg" alt="Pandas" height="32" />
-  <img src="./assets/badges/c.svg" alt="C" height="32" />
-  <img src="./assets/badges/java.svg" alt="Java" height="32" />
-  <img src="./assets/badges/scala.svg" alt="Scala" height="32" />
-  <img src="./assets/badges/sql.svg" alt="SQL" height="32" />
-  <img src="./assets/badges/julia.svg" alt="Julia" height="32" />
-  <img src="./assets/badges/git.svg" alt="Git" height="32" />
-  <img src="./assets/badges/docker.svg" alt="Docker" height="32" />
+  <img src="./assets/badges/python.svg" alt="Python" height="22" />
+  <img src="./assets/badges/numpy.svg" alt="NumPy" height="22" />
+  <img src="./assets/badges/pandas.svg" alt="Pandas" height="22" />
+  <img src="./assets/badges/c.svg" alt="C" height="22" />
+  <img src="./assets/badges/java.svg" alt="Java" height="22" />
+  <img src="./assets/badges/scala.svg" alt="Scala" height="22" />
+  <img src="./assets/badges/sql.svg" alt="SQL" height="22" />
+  <img src="./assets/badges/julia.svg" alt="Julia" height="22" />
+  <img src="./assets/badges/git.svg" alt="Git" height="22" />
+  <img src="./assets/badges/docker.svg" alt="Docker" height="22" />
 </p>
 
 ### Machine Learning
 
 <p>
-  <img src="./assets/badges/pytorch.svg" alt="PyTorch" height="32" />
-  <img src="./assets/badges/scikit-learn.svg" alt="Sklearn" height="32" />
-  <img src="./assets/badges/pynest.svg" alt="PyNEST" height="32" />
+  <img src="./assets/badges/pytorch.svg" alt="PyTorch" height="22" />
+  <img src="./assets/badges/scikit-learn.svg" alt="Sklearn" height="22" />
+  <img src="./assets/badges/pynest.svg" alt="PyNEST" height="22" />
 </p>
 
 ## 🔬 Selected work
