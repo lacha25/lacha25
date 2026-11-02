@@ -9,9 +9,26 @@ I'm looking for opportunities where I can bring data science and my interest in 
 
 ## 🛠️ Tools I work with
 
-**Programming:** Python, NumPy, Pandas, C, Java, Scala, SQL, Julia
+**Programming**
 
-**Machine Learning:** PyTorch, Sklearn, PyNEST
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/tool-labels/python-dark.svg" /><img src="./assets/tool-labels/python-light.svg" alt="Python" height="22" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/tool-labels/numpy-dark.svg" /><img src="./assets/tool-labels/numpy-light.svg" alt="NumPy" height="22" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/tool-labels/pandas-dark.svg" /><img src="./assets/tool-labels/pandas-light.svg" alt="Pandas" height="22" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/tool-labels/c-dark.svg" /><img src="./assets/tool-labels/c-light.svg" alt="C" height="22" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/tool-labels/java-dark.svg" /><img src="./assets/tool-labels/java-light.svg" alt="Java" height="22" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/tool-labels/scala-dark.svg" /><img src="./assets/tool-labels/scala-light.svg" alt="Scala" height="22" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/tool-labels/sql-dark.svg" /><img src="./assets/tool-labels/sql-light.svg" alt="SQL" height="22" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/tool-labels/julia-dark.svg" /><img src="./assets/tool-labels/julia-light.svg" alt="Julia" height="22" /></picture>
+</p>
+
+**Machine Learning**
+
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/tool-labels/pytorch-dark.svg" /><img src="./assets/tool-labels/pytorch-light.svg" alt="PyTorch" height="22" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/tool-labels/sklearn-dark.svg" /><img src="./assets/tool-labels/sklearn-light.svg" alt="Sklearn" height="22" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/tool-labels/pynest-dark.svg" /><img src="./assets/tool-labels/pynest-light.svg" alt="PyNEST" height="22" /></picture>
+</p>
 
 ## 🔬 Selected work
 
@@ -21,11 +38,11 @@ An interactive 3D brain atlas connecting anatomy with region functions, learning
 
 **JavaScript · Three.js** · [Explore the atlas](https://lacha25.github.io/brain-explorer/)
 
-### 🩺 [Medical image segmentation](https://github.com/lacha25/AML_task2)
+### 🍻 [PubCrawl — Crawl App](https://github.com/Crawl-App/app-frontend)
 
-A mitral valve segmentation pipeline using a ResNet-18 U-Net, with data augmentation, validation split by video, and IoU evaluation.
+A mobile app for planning a pub crawl, with an interactive map and directions between stops. I contributed to the map and route interface.
 
-**Python · PyTorch · OpenCV** · [View the pipeline](https://github.com/lacha25/AML_task2/blob/main/mv_pipeline.py)
+**TypeScript · React Native · Expo**
 
 ### 🏔️ [Alpine Guard](https://github.com/eliemada/swiss-ai-hackathon-25)
 
