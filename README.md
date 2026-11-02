@@ -11,13 +11,27 @@ I'm looking for opportunities where I can bring data science and my interest in 
 
 ## 🛠️ Tools I work with
 
+### Programming
+
 <p>
   <img src="./assets/badges/python.svg" alt="Python" height="32" />
+  <img src="./assets/badges/numpy.svg" alt="NumPy" height="32" />
+  <img src="./assets/badges/pandas.svg" alt="Pandas" height="32" />
+  <img src="./assets/badges/c.svg" alt="C" height="32" />
+  <img src="./assets/badges/java.svg" alt="Java" height="32" />
+  <img src="./assets/badges/scala.svg" alt="Scala" height="32" />
+  <img src="./assets/badges/sql.svg" alt="SQL" height="32" />
+  <img src="./assets/badges/julia.svg" alt="Julia" height="32" />
+  <img src="./assets/badges/git.svg" alt="Git" height="32" />
+  <img src="./assets/badges/docker.svg" alt="Docker" height="32" />
+</p>
+
+### Machine Learning
+
+<p>
   <img src="./assets/badges/pytorch.svg" alt="PyTorch" height="32" />
-  <img src="./assets/badges/scikit-learn.svg" alt="scikit-learn" height="32" />
-  <img src="./assets/badges/javascript.svg" alt="JavaScript" height="32" />
-  <img src="./assets/badges/threejs.svg" alt="Three.js" height="32" />
-  <img src="./assets/badges/fastapi.svg" alt="FastAPI" height="32" />
+  <img src="./assets/badges/scikit-learn.svg" alt="Sklearn" height="32" />
+  <img src="./assets/badges/pynest.svg" alt="PyNEST" height="32" />
 </p>
 
 ## 🔬 Selected work

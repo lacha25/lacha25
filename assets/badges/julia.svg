@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="97" height="32" viewBox="0 0 97 32" role="img" aria-label="Julia">
+  <title>Julia</title>
+  <rect x=".5" y=".5" width="96" height="31" rx="7" fill="#45305F" stroke="#B395D8" stroke-opacity=".65"/>
+  <circle cx="15" cy="16" r="3.5" fill="#B395D8"/>
+  <text x="27" y="20.5" fill="#FFFFFF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">Julia</text>
+</svg>
